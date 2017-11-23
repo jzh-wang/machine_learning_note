@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Nov 15 10:56:25 2017
-
+源文件是在知乎看到的一个图片文件, 敲了下来.
+若是侵权, 告删!
 @author: Administrator
 """
 
