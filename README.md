@@ -20,6 +20,8 @@ Mardown
 
 Hands-On Machine Learning with Scikit-Learn and TensorFlow
 
+[![book](http://akamaicovers.oreilly.com/images/0636920052289/cat.gif)](http://shop.oreilly.com/product/0636920052289.do)
+
 [GitHub](https://github.com/ageron/handson-ml)
 
 ***
