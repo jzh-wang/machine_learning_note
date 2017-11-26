@@ -68,148 +68,152 @@ Chapter 2 End-to-End Machine Learning Project
 
 
 Chapter 3 Classification
-MNIST
-Training a Binary Classifier
-Performance Measures
-Multiclass Classification
-Error Analysis
-Multilabel Classification
-Multioutput Classification
-Exercises
+> MNIST
+> Training a Binary Classifier
+> Performance Measures
+> Multiclass Classification
+> Error Analysis
+> Multilabel Classification
+> Multioutput Classification
+> Exercises
 
 
 Chapter 4 Training Models
-Linear Regression
-Gradient Descent
-Polynomial Regression
-Learning Curves
-Regularized Linear Models
-Logistic Regression
-Exercises
+> Linear Regression
+> Gradient Descent
+> Polynomial Regression
+> Learning Curves
+> Regularized Linear Models
+> Logistic Regression
+> Exercises
 
 
 Chapter 5 Support Vector Machines
-Linear SVM Classification
-Nonlinear SVM Classification
-SVM Regression
-Under the Hood
-Exercises
+> Linear SVM Classification
+> Nonlinear SVM Classification
+> SVM Regression
+> Under the Hood
+> Exercises
 
 
 Chapter 6 Decision Trees
-Training and Visualizing a Decision Tree
-Making Predictions
-Estimating Class Probabilities
-The CART Training Algorithm
-Computational Complexity
-Gini Impurity or Entropy?
-Regularization Hyperparameters
-Regression
-Instability
-Exercises
+> Training and Visualizing a Decision Tree
+> Making Predictions
+> Estimating Class Probabilities
+> The CART Training Algorithm
+> Computational Complexity
+> Gini Impurity or Entropy?
+> Regularization Hyperparameters
+> Regression
+> Instability
+> Exercises
 
 
 Chapter 7 Ensemble Learning and Random Forests
-Voting Classifiers
-Bagging and Pasting
-Random Patches and Random Subspaces
-Random Forests
-Boosting
-Stacking
-Exercises
+> Voting Classifiers
+> Bagging and Pasting
+> Random Patches and Random Subspaces
+> Random Forests
+> Boosting
+> Stacking
+> Exercises
 
 
 Chapter 8 Dimensionality Reduction
-The Curse of Dimensionality
-Main Approaches for Dimensionality Reduction
-PCA
-Kernel PCA
-LLE
-Other Dimensionality Reduction Techniques
-Exercises
+> The Curse of Dimensionality
+> Main Approaches for Dimensionality Reduction
+> PCA
+> Kernel PCA
+> LLE
+> Other Dimensionality Reduction Techniques
+> Exercises
+
 Neural Networks and Deep Learning
 
 
 Chapter 9 Up and Running with TensorFlow
-Installation
-Creating Your First Graph and Running It in a Session
-Managing Graphs
-Lifecycle of a Node Value
-Linear Regression with TensorFlow
-Implementing Gradient Descent
-Feeding Data to the Training Algorithm
-Saving and Restoring Models
-Visualizing the Graph and Training Curves Using TensorBoard
-Name Scopes
-Modularity
-Sharing Variables
-Exercises
+> Installation
+> Creating Your First Graph and Running It in a Session
+> Managing Graphs
+> Lifecycle of a Node Value
+> Linear Regression with TensorFlow
+> Implementing Gradient Descent
+> Feeding Data to the Training Algorithm
+> Saving and Restoring Models
+> Visualizing the Graph and Training Curves Using TensorBoard
+> Name Scopes
+> Modularity
+> Sharing Variables
+> Exercises
 
 
 Chapter 10 Introduction to Artificial Neural Networks
-From Biological to Artificial Neurons
-Training an MLP with TensorFlow’s High-Level API
-Training a DNN Using Plain TensorFlow
-Fine-Tuning Neural Network Hyperparameters
-Exercises
+> From Biological to Artificial Neurons
+> Training an MLP with TensorFlow’s High-Level API
+> Training a DNN Using Plain TensorFlow
+> Fine-Tuning Neural Network Hyperparameters
+> Exercises
 
 
 Chapter 11 Training Deep Neural Nets
-Vanishing/Exploding Gradients Problems
-Reusing Pretrained Layers
-Faster Optimizers
-Avoiding Overfitting Through Regularization
-Practical Guidelines
-Exercises
+> Vanishing/Exploding Gradients Problems
+> Reusing Pretrained Layers
+> Faster Optimizers
+> Avoiding Overfitting Through Regularization
+> Practical Guidelines
+> Exercises
 
 
 Chapter 12 Distributing TensorFlow Across Devices and Servers
-Multiple Devices on a Single Machine
-Multiple Devices Across Multiple Servers
-Parallelizing Neural Networks on a TensorFlow Cluster
-Exercises
+> Multiple Devices on a Single Machine
+> Multiple Devices Across Multiple Servers
+> Parallelizing Neural Networks on a TensorFlow Cluster
+> Exercises
+
+
 Chapter 13 Convolutional Neural Networks
-The Architecture of the Visual Cortex
-Convolutional Layer
-Pooling Layer
-CNN Architectures
-Exercises
+> The Architecture of the Visual Cortex
+> Convolutional Layer
+> Pooling Layer
+> CNN Architectures
+> Exercises
 
 
 Chapter 14 Recurrent Neural Networks
-Recurrent Neurons
-Basic RNNs in TensorFlow
-Training RNNs
-Deep RNNs
-LSTM Cell
-GRU Cell
-Natural Language Processing
-Exercises
+> Recurrent Neurons
+> Basic RNNs in TensorFlow
+> Training RNNs
+> Deep RNNs
+> LSTM Cell
+> GRU Cell
+> Natural Language Processing
+> Exercises
 
 
 Chapter 15 Autoencoders
-Efficient Data Representations
-Performing PCA with an Undercomplete Linear Autoencoder
-Stacked Autoencoders
-Unsupervised Pretraining Using Stacked Autoencoders
-Denoising Autoencoders
-Sparse Autoencoders
-Variational Autoencoders
-Other Autoencoders
-Exercises
+> Efficient Data Representations
+> Performing PCA with an Undercomplete Linear Autoencoder
+> Stacked Autoencoders
+> Unsupervised Pretraining Using Stacked Autoencoders
+> Denoising Autoencoders
+> Sparse Autoencoders
+> Variational Autoencoders
+> Other Autoencoders
+> Exercises
 
 
 Chapter 16 Reinforcement Learning
-Learning to Optimize Rewards
-Policy Search
-Introduction to OpenAI Gym
-Neural Network Policies
-Evaluating Actions: The Credit Assignment Problem
-Policy Gradients
-Markov Decision Processes
-Temporal Difference Learning and Q-Learning
-Learning to Play Ms. Pac-Man Using Deep Q-Learning
-Exercises
+> Learning to Optimize Rewards
+> Policy Search
+> Introduction to OpenAI Gym
+> Neural Network Policies
+> Evaluating Actions: The Credit Assignment Problem
+> Policy Gradients
+> Markov Decision Processes
+> Temporal Difference Learning and Q-Learning
+> Learning to Play Ms. Pac-Man Using Deep Q-Learning
+> Exercises
+
 Thank You!
 
 
