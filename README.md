@@ -31,25 +31,40 @@ The Fundamentals of Machine Learning
 
 
 Chapter 1 The Machine Learning Landscape
-What Is Machine Learning?
-Why Use Machine Learning?
-Types of Machine Learning Systems
-Main Challenges of Machine Learning
-Testing and Validating
-Exercises
+
+> What Is Machine Learning?
+
+> Why Use Machine Learning?
+
+> Types of Machine Learning Systems
+
+> Main Challenges of Machine Learning
+
+> Testing and Validating
+
+> Exercises
 
 
 Chapter 2 End-to-End Machine Learning Project
-Working with Real Data
-Look at the Big Picture
-Get the Data
-Discover and Visualize the Data to Gain Insights
-Prepare the Data for Machine Learning Algorithms
-Select and Train a Model
-Fine-Tune Your Model
-Launch, Monitor, and Maintain Your System
-Try It Out!
-Exercises
+
+> Working with Real Data
+
+> Look at the Big Picture
+
+> Get the Data
+
+> Discover and Visualize the Data to Gain Insights
+
+> Prepare the Data for Machine Learning Algorithms
+
+> Select and Train a Model
+
+> Fine-Tune Your Model
+
+> Launch, Monitor, and Maintain Your System
+
+> Try It Out!
+
 
 
 Chapter 3 Classification
