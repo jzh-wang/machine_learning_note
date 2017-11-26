@@ -26,4 +26,6 @@ Hands-On Machine Learning with Scikit-Learn and TensorFlow
 
 ***
 
-## 预留
+##  Quantum Computing
+
+[连接](https://classes.cs.uoregon.edu/16S/cis410quantum/syllabus.html)
